@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cyrillenguetoum
-- 👀 I develop in R to analyze research data and in PHP to develop websites;
-- 🌱 I'm learning Bayesian Inference for better Statistics;
-- 💞️ I’m looking to collaborate on Open source projects;
-- 📫 Reach me through my mail address: nguetoum@gmail.com
+- 👀 I'm a researcher in parasitology and medical entomology;
+- 🌱 I'm a Bayesian thinking aficionado;
+- 💞️ I develop in R, PHP, Go, and Typescript;
+- 📫 Reach me through my email address: nguetoum@gmail.com
